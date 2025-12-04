@@ -62,6 +62,3 @@ To create a standalone executable, you can use PyInstaller:
 - Ensure all required packages are installed
 - Make sure the model file is in the correct location (`model/cat_dog_classifier.h5`)
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
